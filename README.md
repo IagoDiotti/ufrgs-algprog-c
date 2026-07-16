@@ -18,11 +18,11 @@ A estrutura de diretórios segue este formato:
 📦 ufrgs-algprog-c
  ┣ 📂 semana-01
  ┃ ┣ 📜 enunciado-semana-01.pdf
- ┃ ┗ 📜 exercicio.c
+ ┃ ┗ 📜 tarefa1.c
  ┣ 📂 semana-02
  ┃ ┣ 📜 enunciado-semana-02.pdf
- ┃ ┣ 📜 exercicio-a.c
- ┃ ┗ 📜 exercicio-b.c
+ ┃ ┣ 📜 tarefa1.c
+ ┃ ┗ 📜 tarefa2.c
  ┣ 📜 .gitignore
  ┗ 📜 README.md
 ```
@@ -43,12 +43,12 @@ Os códigos foram escritos e testados em ambiente Linux (Pop!_OS). Para rodar qu
 
 3. Compile o código desejado utilizando o `gcc`:
    ```bash
-   gcc exercicio.c -o exercicio
+   gcc tarefa1.c -o tarefa1
    ```
 
 4. Execute o programa compilado:
    ```bash
-   ./exercicio
+   ./tarefa1
    ```
 
 ## 🧠 Conceitos Abordados
