@@ -11,7 +11,6 @@ Para facilitar a navegação e o entendimento da evolução dos conceitos ao lon
 Dentro de cada pasta, você encontrará:
 1. **O arquivo PDF** com o enunciado e as instruções da atividade (fornecido na disciplina).
 2. **Os arquivos fonte (`.c`)** contendo as soluções desenvolvidas.
-3. *(Opcional)* Um pequeno `README.md` específico da semana explicando a lógica utilizada.
 
 A estrutura de diretórios segue este formato:
 
